@@ -1,1 +1,0 @@
-# verstka_express_static_ejs
